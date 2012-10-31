@@ -1,0 +1,36 @@
+total 2030
+drwxr-xr-x   35 Guardian Administ     8192 Oct 31 12:42 .
+dr-xr-xr-x    8 Guardian Administ     4096 Feb 27  2012 ..
+-rw-r--r--    1 Guardian Administ       70 Oct 31 11:26 .gitconfig
+drwxr-xr-x    5 Guardian Administ        0 Feb 27  2012 AppData
+drwxr-xr-x    0 Guardian Administ     4096 Jul 17 07:31 Application Data
+dr-xr-xr-x    4 Guardian Administ        0 Jul 13 07:41 Contacts
+drwxr-xr-x    0 Guardian Administ     4096 Sep 20 12:26 Cookies
+dr-xr-xr-x   20 Guardian Administ    16384 Oct 31 11:08 Desktop
+dr-xr-xr-x    8 Guardian Administ     4096 Jul 13 07:41 Documents
+dr-xr-xr-x    7 Guardian Administ     4096 Oct 31 10:11 Downloads
+dr-xr-xr-x   14 Guardian Administ     4096 Jul 13 07:41 Favorites
+dr-xr-xr-x    7 Guardian Administ     4096 Jul 13 07:41 Links
+drwxr-xr-x    0 Guardian Administ     8192 Oct 31 10:11 Local Settings
+dr-xr-xr-x    3 Guardian Administ        0 Jul 13 07:41 Music
+dr-xr-xr-x    0 Guardian Administ     4096 Jul 13 07:41 My Documents
+-rw-r--r--    1 Guardian Administ  2621440 Oct 31 13:00 NTUSER.DAT
+-rw-r--r--    1 Guardian Administ    65536 Feb 27  2012 NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+-rw-r--r--    1 Guardian Administ   524288 Feb 27  2012 NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r--    1 Guardian Administ   524288 Feb 27  2012 NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+drwxr-xr-x    0 Guardian Administ        0 Jul 13  2009 NetHood
+dr-xr-xr-x    3 Guardian Administ        0 Jul 13 07:41 Pictures
+drwxr-xr-x    0 Guardian Administ        0 Jul 13  2009 PrintHood
+dr-xr-xr-x    0 Guardian Administ    81920 Oct 31 11:09 Recent
+drwxr-xr-x    3 Guardian Administ        0 Apr 27  2011 Roaming
+dr-xr-xr-x    3 Guardian Administ        0 Jul 13 07:41 Saved Games
+dr-xr-xr-x    5 Guardian Administ        0 Jul 13 07:41 Searches
+dr-xr-xr-x    0 Guardian Administ     4096 Feb 27  2012 SendTo
+dr-xr-xr-x    0 Guardian Administ        0 Jul 13 07:41 Start Menu
+drwxr-xr-x    0 Guardian Administ        0 Jul 13  2009 Templates
+dr-xr-xr-x    3 Guardian Administ        0 Jul 13 07:41 Videos
+drwxr-xr-x    3 Guardian Administ        0 Mar 21  2012 VirtualBox VMs
+-rw-r--r--    1 Guardian Administ     4983 Oct 31 12:42 _viminfo
+-rw-r--r--    1 Guardian Administ   262144 Oct 31 13:00 ntuser.dat.LOG1
+-rw-r--r--    1 Guardian Administ        0 Feb 27  2012 ntuser.dat.LOG2
+-rw-r--r--    1 Guardian Administ       20 Feb 27  2012 ntuser.ini
