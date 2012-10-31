@@ -21,11 +21,9 @@ dr-xr-xr-x    0 Guardian Administ     4096 Jul 13 07:41 My Documents
 drwxr-xr-x    0 Guardian Administ        0 Jul 13  2009 NetHood
 dr-xr-xr-x    3 Guardian Administ        0 Jul 13 07:41 Pictures
 drwxr-xr-x    0 Guardian Administ        0 Jul 13  2009 PrintHood
-dr-xr-xr-x    0 Guardian Administ    81920 Oct 31 11:09 Recent
 drwxr-xr-x    3 Guardian Administ        0 Apr 27  2011 Roaming
 dr-xr-xr-x    3 Guardian Administ        0 Jul 13 07:41 Saved Games
 dr-xr-xr-x    5 Guardian Administ        0 Jul 13 07:41 Searches
-dr-xr-xr-x    0 Guardian Administ     4096 Feb 27  2012 SendTo
 dr-xr-xr-x    0 Guardian Administ        0 Jul 13 07:41 Start Menu
 drwxr-xr-x    0 Guardian Administ        0 Jul 13  2009 Templates
 dr-xr-xr-x    3 Guardian Administ        0 Jul 13 07:41 Videos
@@ -34,3 +32,4 @@ drwxr-xr-x    3 Guardian Administ        0 Mar 21  2012 VirtualBox VMs
 -rw-r--r--    1 Guardian Administ   262144 Oct 31 13:00 ntuser.dat.LOG1
 -rw-r--r--    1 Guardian Administ        0 Feb 27  2012 ntuser.dat.LOG2
 -rw-r--r--    1 Guardian Administ       20 Feb 27  2012 ntuser.ini
+New Crap
