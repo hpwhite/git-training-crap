@@ -10,4 +10,6 @@ The sixth line.
 Line seven is the best...
 Line eight SUCKS!!!
 After adding feature2, and he typed more SP...
-
+This is now in Feature3
+F3 Line
+F3 another line
