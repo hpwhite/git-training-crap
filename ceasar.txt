@@ -1,5 +1,3 @@
-Branch
-
 
 Some crap in a file.
 The second line of crap in a file.
